@@ -1,5 +1,5 @@
 # Just another NVIM config file
-![screenshot][https://github.com/ludi-vokrug/dot.vim/blob/main/screenshot.png]
+![screenshot](https://github.com/ludi-vokrug/dot.vim/blob/main/screenshot.png)
 
 Feel free to use, fork and copy that file.  
 
