@@ -1,12 +1,13 @@
-#Just another NVIM config file
+# Just another NVIM config file
+![screenshot][screenshot.png]
 
-Feel free to use, fork and copy that file.
+Feel free to use, fork and copy that file.  
 
-#Install HOWTO:
+# Install HOWTO:
 
 1) Install https://github.com/junegunn/vim-plug, pay attention to readme.
 2) Add init.vim file in /home/{user}/.config/nvim/
-3) Start nvim and install plugins via PlugInstall
+3) Start nvim and install plugins via PlugInstall command.
 
 Enjoy :)
 
