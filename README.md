@@ -1,9 +1,9 @@
 # Just another NVIM config file
-![screenshot][screenshot.png]
+![screenshot][https://github.com/ludi-vokrug/dot.vim/blob/main/screenshot.png]
 
 Feel free to use, fork and copy that file.  
 
-# Install HOWTO:
+### Install HOWTO:
 
 1) Install https://github.com/junegunn/vim-plug, pay attention to readme.
 2) Add init.vim file in /home/{user}/.config/nvim/
